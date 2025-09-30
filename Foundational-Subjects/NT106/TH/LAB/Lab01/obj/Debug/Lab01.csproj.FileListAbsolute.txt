@@ -1,0 +1,11 @@
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.Lab01_Bai01.resources
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\bin\Debug\Lab01.exe.config
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\bin\Debug\Lab01.exe
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\bin\Debug\Lab01.pdb
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.MENU.resources
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.exe
+D:\UIT-Subjects\Foundational-Subjects\NT106\TH\LAB\Lab01\obj\Debug\Lab01.pdb
