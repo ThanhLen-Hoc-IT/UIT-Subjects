@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\dndx\\forms\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\forms\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\ultils\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\dndx\\ultils\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\ultils\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,11 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logout.cs [Design]",
+              "DocumentMoniker": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Logout.cs",
+              "RelativeDocumentMoniker": "DNDX\\Forms\\Logout.cs",
+              "ToolTip": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Logout.cs [Design]",
+              "RelativeToolTip": "DNDX\\Forms\\Logout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:38:24.266Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -50,8 +62,7 @@
               "RelativeToolTip": "DNDX\\Ultils\\Hashing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:42:20.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:42:20.567Z"
             },
             {
               "$type": "Document",
@@ -62,8 +73,7 @@
               "ToolTip": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Main.cs [Design]",
               "RelativeToolTip": "DNDX\\Forms\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:39:46.909Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-30T13:39:46.909Z"
             },
             {
               "$type": "Document",
@@ -80,18 +90,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Logout.cs [Design]",
-              "DocumentMoniker": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Logout.cs",
-              "RelativeDocumentMoniker": "DNDX\\Forms\\Logout.cs",
-              "ToolTip": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Logout.cs [Design]",
-              "RelativeToolTip": "DNDX\\Forms\\Logout.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:38:24.266Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Login.cs",
@@ -99,8 +97,7 @@
               "ToolTip": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Login.cs [Design]",
               "RelativeToolTip": "DNDX\\Forms\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:38:07.912Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-30T13:38:07.912Z"
             },
             {
               "$type": "Document",
