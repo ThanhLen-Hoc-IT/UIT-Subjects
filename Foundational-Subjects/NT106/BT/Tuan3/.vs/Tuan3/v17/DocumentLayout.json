@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\dndx\\forms\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\dndx\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\dndx\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\ultils\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\ultils\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\dndx\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\forms\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|d:\\uit-subjects\\foundational-subjects\\nt106\\bt\\tuan3\\dndx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\dndx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A053B12-8939-4F85-AAC5-735A58ED9614}|DNDX\\DNDX.csproj|solutionrelative:dndx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Hashing.cs",
               "DocumentMoniker": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Ultils\\Hashing.cs",
               "RelativeDocumentMoniker": "DNDX\\Ultils\\Hashing.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\App.config",
               "RelativeDocumentMoniker": "DNDX\\App.config",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Logout.cs [Design]",
               "DocumentMoniker": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Logout.cs",
               "RelativeDocumentMoniker": "DNDX\\Forms\\Logout.cs",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\UIT-Subjects\\Foundational-Subjects\\NT106\\BT\\Tuan3\\DNDX\\Forms\\Login.cs",
               "RelativeDocumentMoniker": "DNDX\\Forms\\Login.cs",
@@ -112,8 +112,7 @@
               "RelativeToolTip": "DNDX\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:31:55.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:31:55.353Z"
             }
           ]
         }
